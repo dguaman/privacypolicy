@@ -40,6 +40,34 @@ body{
     border-top: 1px solid #eee;
 }
 
+.title-app{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.content a{
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.content .mail{
+    color: #000;
+    font-weight: 600;
+    position: relative;
+}
+
+.material-icons{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+.name-mail{
+    padding: 0 0 0 1.5rem;
+}
+
 .footer{
     border-top: 1px solid #eee;
     margin: 32px 0 0;
